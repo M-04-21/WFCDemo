@@ -1,0 +1,2 @@
+class CollapseException(Exception):
+    pass
